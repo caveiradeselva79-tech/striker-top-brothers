@@ -45,3 +45,5 @@ Sistema em Python para *controle de alunos e pagamentos* da academia *STRIKER TO
    ```bash
    git clone https://github.com/caveiradeselva79-tech/striker-top-brothers.git
    cd striker-top-brothers
+```text
+atualiza README e separa codigo do documento
